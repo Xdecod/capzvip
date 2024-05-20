@@ -3,7 +3,7 @@
 </p>
 
 ### INSTALL SCRIPT
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/sctunnel/capzvip/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>wget -q https://raw.githubusercontent.com/sctunnel/capzvip/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
 ### UPDATE SCRIPT 

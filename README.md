@@ -3,7 +3,7 @@
 </p>
 
 ### INSTALL SCRIPT
-<pre><code>wget -q https://raw.githubusercontent.com/sctunnel/capzvip/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>wget -q https://raw.githubusercontent.com/sctunnel/capzvip/main/setup.sh && chmod +x setup.sh && ./setup.sh
 </code></pre>
 
 ### UPDATE SCRIPT 
